@@ -162,7 +162,7 @@ color: #608341;
 letter-spacing: 1px; 
 }
 main.home>.postcards-wrapper>.postcard>.post-title>h2>a:hover {
-  letter-spacing: 1.1px;
+  color: blue;
 }
 /* postcard footer */ 
 main.home>.postcards-wrapper>.postcard>.postcard-footer {
